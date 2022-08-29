@@ -1,9 +1,9 @@
 # Página de Karen
 
-[volver](/index.md
+[volver](/index.md)
 
 
-![clone repo](/img/IMG_20201108_132809.jpg
+![clone repo](/img/IMG_20201108_132809.jpg)
 
 
 
